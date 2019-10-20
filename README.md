@@ -1,2 +1,2 @@
 # BBAI
-beaglebone ai code base
+Workshop for BeagleBone AI
