@@ -1,8 +1,10 @@
 ## SERIAL PORT w/ FAN
 Disable SysRQ
+
 `echo 0 > /proc/sys/kernel/sysrq`
 ## INTERNET SHARING
 `sudo /sbin/route add default gw 192.168.7.1`
+
 Set DNS to IP resolver
 `vim /etc/resolv.conf`
 ```
