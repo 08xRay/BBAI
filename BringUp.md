@@ -21,5 +21,5 @@ BB AI adapter properties should be set to auto IP resolution.
 ```
 sudo apt install python3 python3-pip python3-setuptools \
                        python3-wheel ninja-build
-pip3 install --user meson # or pip3 install meson
+pip3 install meson
 ```
