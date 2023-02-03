@@ -16,3 +16,10 @@ nameserver 8.8.4.4
 On the Windows OS open WiFi adapter properties and enable share internet to BB AI adapter.
 
 BB AI adapter properties should be set to auto IP resolution.
+
+## MESON
+```
+sudo apt-get install python3 python3-pip python3-setuptools \
+                       python3-wheel ninja-build
+pip3 install --user meson # or pip3 install meson
+```
