@@ -1,4 +1,7 @@
 # BBAI
+
+Review Bring Up Guide to configure board and troubleshoot it: [link](https://github.com/08xRay/BBAI/blob/master/BringUp.md)
+
 ### Workshop for BeagleBone AI
 
 1. Optimizing power consumption steps: [link](https://zeldor.biz/2012/11/beaglebone-optimize-power-consumption/)
